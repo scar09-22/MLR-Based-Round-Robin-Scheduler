@@ -2,7 +2,7 @@
 
 This project simulates and compares the performance of two Round Robin (RR) CPU scheduling strategies:
 
-- **Traditional RR** using a fixed time quantum (10ms)
+- **Traditional RR** using a fixed time quantum 
 - **MLR-RR**: A Machine Learning Regression (MLR)-based dynamic RR, where time quantum is predicted based on system metrics
 
 The goal is to evaluate whether dynamically tuning the time quantum using real system characteristics improves key performance metrics.
