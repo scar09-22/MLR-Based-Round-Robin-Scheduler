@@ -78,3 +78,7 @@ These metrics are normalized using z-score normalization.
 
 <img width="444" height="189" alt="Image" src="https://github.com/user-attachments/assets/bbc93d9b-9ffa-4956-9487-843823a83822" />
 
+## Credits
+
+Developed by Shiva S Murthy. Ch (Myself)
+
