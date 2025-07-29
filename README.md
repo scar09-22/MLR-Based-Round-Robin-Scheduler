@@ -39,7 +39,7 @@ These metrics are normalized using z-score normalization.
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 * MATLAB R2020a or higher
 * Statistics and Machine Learning Toolbox
