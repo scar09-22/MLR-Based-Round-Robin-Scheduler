@@ -62,6 +62,10 @@ These metrics are normalized using z-score normalization.
 
 ## Results
 
+<img width="865" height="610" alt="Image" src="https://github.com/user-attachments/assets/cb5f2e7f-1a5e-4313-bc03-9cb5d88a8e8e" />
+
+<img width="885" height="722" alt="Image" src="https://github.com/user-attachments/assets/9fe5e7a6-46ce-4920-8481-27ab770e1f49" />
+
 <img width="1121" height="467" alt="Image" src="https://github.com/user-attachments/assets/bdb505e5-1d2f-4534-8404-2fae26f7ae02" />
 
 <img width="1100" height="439" alt="Image" src="https://github.com/user-attachments/assets/17ffd377-6333-4e96-b109-74eb88f45e76" />
